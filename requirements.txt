@@ -1,0 +1,18 @@
+-qU pypdf
+pinecone-client
+langchain-community
+langchain-huggingface
+langchain-pinecone
+groq
+beautifulsoup4
+streamlit
+sentence-transformers
+python-dotenv
+libmagic python-magic
+google-api-python-client
+protoc-gen-openapiv2
+grpcio
+
+
+
+
