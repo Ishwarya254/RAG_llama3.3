@@ -7,10 +7,10 @@ Back-End: Python with LangChain for orchestration.
 
 Database: Pinecone for vector search and index management.
 
-Model: Llama 3.3 via ChatGroq for generative tasks.
+Model: Llama 3.3 via ChatGroq for generative tasks. ---> Model_name = 'llama-3.3-70b-versatile'
 
-      model_name = 'llama-3.3-70b-versatile'
+Embeddings: HuggingFace's embeddings for semantic search. ---> Model_name="all-MiniLM-L6-v2"
 
-Embeddings: HuggingFace's embeddings for semantic search.
-
-      model_name="all-MiniLM-L6-v2"
+Clone this Repository
+      
+      https://github.com/Ishwarya254/RAG_llama3.3.git
