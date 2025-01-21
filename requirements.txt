@@ -1,4 +1,4 @@
--qU pypdf
+pypdf
 pinecone-client
 langchain-community
 langchain-huggingface
@@ -8,7 +8,8 @@ beautifulsoup4
 streamlit
 sentence-transformers
 python-dotenv
-libmagic python-magic
+libmagic 
+python-magic
 google-api-python-client
 protoc-gen-openapiv2
 grpcio
